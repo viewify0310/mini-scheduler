@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Local app state (normally lives in ~/.mini_scheduler — listed for safety)
+.mini_scheduler/
+
+# Build / preview artifacts
+_iconpreview.png
+*.tmp
