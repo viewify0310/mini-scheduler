@@ -97,3 +97,9 @@ App (UI / main thread)  ──reads/writes──►  TaskStore  ──►  tasks
 - **Concurrency limit** — cap `len(self.running)` in `Scheduler.tick()`.
 - **Run history / charts** — append each `_finish()` to a separate JSON.
 - **System tray** — add `pystray` so it minimizes to the tray.
+
+## Also in this repository
+
+[`cb-quant/`](cb-quant/README.md) — a convertible bond quant workflow built
+as a Google ADK graph, with a live graph viewer in the browser. It is a
+separate tool with its own README and dependencies.
