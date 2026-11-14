@@ -1,0 +1,9 @@
+bond_id,issuer,spot,vol,risk_free,credit_spread,dividend_yield,coupon_rate,coupon_freq,maturity_years,conversion_ratio,call_price,call_start_years,put_price,put_years,market_price
+SAMPLE-A-2029,SAMPLE-A,82,0.32,0.03,0.020,0.00,0.010,2,3.0,1.00,,,,,99.5
+SAMPLE-A-2030,SAMPLE-A,82,0.32,0.03,0.022,0.00,0.015,2,4.0,0.95,,,,,100.2
+SAMPLE-B-2028,SAMPLE-B,45,0.28,0.03,0.035,0.01,0.020,2,2.0,1.80,,,,,100.1
+SAMPLE-C-2029,SAMPLE-C,120,0.40,0.03,0.045,0.00,0.000,2,3.0,0.70,115,1.0,100,2.0,97.9
+SAMPLE-D-2028,SAMPLE-D,30,0.45,0.03,0.090,0.00,0.030,2,2.5,2.60,,,,,96.0
+SAMPLE-E-2030,SAMPLE-E,64,0.24,0.03,0.015,0.02,0.005,2,4.0,1.30,,,,,102.5
+SAMPLE-F-2027,SAMPLE-F,150,0.35,0.03,0.030,0.00,0.010,2,1.5,0.72,,,,,114.2
+SAMPLE-G-2029,SAMPLE-G,22,0.38,0.03,0.050,0.00,0.025,2,3.0,3.90,112,1.5,,,105.0
